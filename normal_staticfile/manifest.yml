@@ -1,0 +1,4 @@
+---
+applications:
+- name: normal_staticfile
+  memory: 64M
