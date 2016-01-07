@@ -1,4 +1,4 @@
 ---
 applications:
-- name: alternate_root
+- name: alternate-root
   memory: 64M

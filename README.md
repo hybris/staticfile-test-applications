@@ -6,8 +6,8 @@ A collection of applications used for testing the staticfile buildpack
 
 | Name | Description
 | ---- | -----------
-| `normal_staticfile` | Cloned from `normal_staticfile` cloudfoundry-community/staticfile-buildpack-acceptance-tests
-| `alternate_root` | Cloned from `alternate_root` cloudfoundry-community/staticfile-buildpack-acceptance-tests
+| `normal-staticfile` | Cloned from `normal_staticfile` cloudfoundry-community/staticfile-buildpack-acceptance-tests
+| `alternate-root` | Cloned from `alternate_root` cloudfoundry-community/staticfile-buildpack-acceptance-tests
 
 ### Output Content
 

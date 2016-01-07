@@ -1,4 +1,4 @@
 ---
 applications:
-- name: normal_staticfile
+- name: normal-staticfile
   memory: 64M
